@@ -47,6 +47,7 @@ p {
 
 .half-width img {
     width: 100%;
+    height: 100%;
 }
 
 .link-button {
@@ -66,4 +67,77 @@ p {
 
 .text-area p {
     margin-bottom: 40px;
+}
+
+.my-work img {
+    width: 100%;
+}
+
+.my-work {
+    margin-top: 10%;
+    margin-left: 7%;
+}
+
+.my-work h2 {
+    text-align: center;
+    margin-bottom: 5%;
+    font-size: 40px;
+}
+
+.my-gig {
+    width: 25%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 3%;
+    
+}
+
+.client-box {
+    margin-bottom: 0px;
+}
+
+.client-part {
+    text-align: center;
+    margin-bottom: 80px;
+}
+
+.client-part h5 {
+    font-weight: normal;
+}
+
+.client-part h1 {
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.client-part h4 {
+    margin-bottom: 2px;
+}
+
+.client-part p {
+    margin-top: 0px;
+    font-size: 12px;
+}
+
+.contact-us {
+    text-align: center;
+    margin: auto;
+    color: white;
+    padding: 10px 40px;
+    background-color: #ec4c7a;
+    border-radius: 5px;
+    width: 30%;
+}
+
+.contact-us h5 {
+    font-size: 12px;
+    font-weight: normal;
+}
+
+
+footer p {
+    text-align: center;
+    font-size: 10px;
+    margin-bottom: 60px;
+    margin-top: 0px;
 }
